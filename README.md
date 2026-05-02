@@ -21,6 +21,9 @@ Everything here is hands-on — built, broken, fixed, and documented by me.
 ### ⚙️ [DevOps Stack](https://github.com/rey26341-sudo)
 > Hands-on DevOps workflows — containerization, orchestration, pipeline automation, and cloud deployments built from scratch.
 
+https://github.com/rey26341-sudo/Devops-stack.git
+
+
 `Docker` `Kubernetes` `GitHub Actions` `AWS` `Bash` `YAML` `Linux`
 
 ---
