@@ -31,8 +31,8 @@ https://github.com/rey26341-sudo/Devops-stack.git
 ### 🔍 [Environment Access Validation](https://github.com/rey26341-sudo/ENVIRONMENT-ACCESS-VALIDATION)
 > Python automation for pre-deployment environment checks — SSH access, repo structure, pipeline status, and log access — with a generated validation report.
 
-https://github.com/rey26341-sudo/ENVIRONMENT-ACCESS-VALIDATIO
-N
+https://github.com/rey26341-sudo/ENVIRONMENT-ACCESS-VALIDATION
+
 `Python` `Bash` `GitHub Actions` `Linux` `CI/CD`
 
 ---
