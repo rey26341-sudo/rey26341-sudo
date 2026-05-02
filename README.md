@@ -35,7 +35,13 @@ https://github.com/rey26341-sudo/ENVIRONMENT-ACCESS-VALIDATION
 
 `Python` `Bash` `GitHub Actions` `Linux` `CI/CD`
 
----
+### certifications
+
+https://www.mygreatlearning.com/certificate/POFFQOFJ?referrer_code=GLUVZ7F6KO5CW
+
+https://www.mygreatlearning.com/certificate/PBRYMXXZ?referrer_code=GLUVZ7F6KO5CW
+
+https://www.guvi.in/verify-certificate?id=7gO2v10056x4u0h4I7&course=buildingdeployingapplicationswithgoogleaistudio
 
 ## 🛠️ Tech Stack used
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
