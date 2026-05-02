@@ -12,6 +12,8 @@ Everything here is hands-on — built, broken, fixed, and documented by me.
 ### 🏦 [Fintech Cloud EKS](https://github.com/rey26341-sudo/FINTECH-CLOUD-EKS)
 > Deploying a containerized Fintech API to AWS EKS using Docker and Kubernetes with a full CI/CD pipeline.
 
+ link: https://github.com/rey26341-sudo/FINTECH-CLOUD-EKS.git
+
 `Python` `Docker` `Kubernetes` `AWS` `GitHub Actions` `CI/CD`
 
 ---
