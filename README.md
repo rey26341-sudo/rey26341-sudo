@@ -1,6 +1,6 @@
 # Hi there, I'm Rey 👋
 
-**System Architect | Startup Founder | Full-Stack Executor**
+**Independent Technology Builder | Software Engineer | Aspiring Deep-Tech Founder**
 
 I build high-impact, scalable digital infrastructure, cryptographic trust systems, and agentic AI platforms. My work sits at the intersection of **technical execution and sustainable global impact**, driving innovation across financial inclusion, sovereign infrastructure, and automated systems aligned with the **UN Sustainable Development Goals (SDGs)**.
 
