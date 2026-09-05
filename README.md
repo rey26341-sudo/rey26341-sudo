@@ -1,116 +1,138 @@
-# Hi, I'm Rey
+# Hi there, I'm Rey 👋
 
-I'm a self-taught DevOps and cloud engineer. I also build **AI agents** — backend systems that use LLMs (like Google Gemini) to handle real tasks such as answering customer questions, qualifying leads, and booking appointments.
+**System Architect | Startup Founder | Full-Stack Executor**
 
-I like to learn by building real projects, deploying them, and writing down what actually happened — including the errors I hit and how I fixed them.
-
-## What I know
-
-- **Cloud & Infrastructure:** AWS (EKS, ECR, CloudShell, IAM), Terraform, eksctl, Kubernetes, Docker, Ansible
-- **CI/CD:** GitHub Actions, Jenkins, GitLab CI
-- **AI Agents & Backend:** Python, FastAPI, Google Gemini API, PostgreSQL, SQLite, Node.js
-- **Other:** Basic security/detection engineering, Linux troubleshooting
-
-## Projects
-
-### FINTECH-CLOUD-EKS
-A fintech API deployed to AWS using Kubernetes. Built two ways — with eksctl and with Terraform — with autoscaling, health checks, CI/CD, and notes on cost and security.
-
-```
-api-service/   → Flask app, Dockerfile, k8s manifests
-infra/         → Terraform (EKS cluster)
-.github/       → CI/CD workflows
-```
-
-**Future plans:** add Prometheus/Grafana monitoring, container vulnerability scanning (Trivy), and Network Policies.
-🔗 https://github.com/rey26341-sudo/FINTECH-CLOUD-EKS
+I build high-impact, scalable digital infrastructure, cryptographic trust systems, and agentic AI platforms. My work sits at the intersection of **technical execution and sustainable global impact**, driving innovation across financial inclusion, sovereign infrastructure, and automated systems aligned with the **UN Sustainable Development Goals (SDGs)**.
 
 ---
 
-### devops-stack
-A full DevOps pipeline: Terraform builds the infrastructure, Ansible configures the server, and Jenkins handles build-and-deploy automatically on every push.
+## 🌍 Building Technology for Sustainable Impact
 
-```
-terraform/     → infrastructure provisioning
-ansible/       → server configuration
-jenkins/       → CI/CD pipeline config
-```
+I design systems focused on transforming complex technological capabilities into scalable, real-world solutions:
 
-**Future plans:** add automated rollback on failed deploys and a staging environment.
-🔗 https://github.com/rey26341-sudo/devops-stack
+* **SDG 9: Industry, Innovation & Infrastructure** — Architecting resilient cloud systems, sovereign middleware, and decentralized financial payment layers.
+* **SDG 16: Peace, Justice & Strong Institutions** — Engineering zero-trust operational security, compliance frameworks, and tamper-resistant verification protocols.
+* **SDG 8: Decent Work & Economic Growth** — Building AI agents to automate business operational workflows and increase digital capacity for SMBs and enterprises.
 
 ---
 
-### yellamma-bot
-An AI agent that acts as a receptionist for multiple businesses from one backend — answers questions and books appointments using Google Gemini.
+## 🚀 Key Projects & Systems
 
-```
-app/           → FastAPI backend + Gemini agent logic
-db/            → PostgreSQL models
-Dockerfile
-```
+### 🏗️ Sustainable Infrastructure, Trust & Compliance (SDG 9 & SDG 16)
 
-**Future plans:** add WhatsApp integration and a business owner dashboard.
-🔗 https://github.com/rey26341-sudo/yellamma-bot
+* **[nachis-deep-tech](https://github.com/rey26341-sudo/nachis-deep-tech)**  
+  *Sovereign Middleware & Cryptographic Compliance*  
+  Built secure, sovereign middleware engineered for defense primes and regulated environments, providing tamper-evident auditability and cryptographic trust.
 
----
+* **[FINTECH-CLOUD-EKS](https://github.com/rey26341-sudo/FINTECH-CLOUD-EKS)**  
+  *Decentralized Financial Settlement Infrastructure*  
+  Engineered a containerized fintech settlement platform integrating a chain-agnostic payment layer with Ethereum Sepolia blockchain transactions, backed by self-healing Kubernetes infrastructure (AWS EKS) and IaC.
 
-### bilingual-tour-ops-agent
-An AI agent that reads travel enquiries in Chinese or English, extracts key details (dates, budget, group size), and flags incomplete ones for human review.
+* **[ENVIRONMENT-ACCESS-VALIDATION](https://github.com/rey26341-sudo/ENVIRONMENT-ACCESS-VALIDATION)**  
+  *Zero-Trust Step-Up Authentication Framework*  
+  Implemented an operational access verification system modeled after GitHub Sudo Mode to restrict unauthorized elevated actions in critical systems.
 
-```
-app/           → FastAPI backend + Gemini agent logic
-models/        → Pydantic schemas
-db.sqlite
-```
+* **[SOC-Evaluation-Lab](https://github.com/rey26341-sudo/SOC-Evaluation-Lab)**  
+  *Blue Team Infrastructure Security Lab*  
+  Platform for threat modeling, security evaluation, and detection engineering to secure cloud environments against cyber risks.
 
-**Future plans:** add a human-review web dashboard and CRM export.
-🔗 https://github.com/rey26341-sudo/bilingual-tour-ops-agent
+### 🤖 Intelligent Systems & Operational Automation (SDG 8 & SDG 9)
 
----
+* **[multilingual-workflow-agent](https://github.com/rey26341-sudo/multilingual-workflow-agent)**  
+  *Bilingual AI Operations Engine*  
+  Deployed an agentic NLP workflow converting unstructured bilingual (Chinese/English) communications into validated operational tasks, automatically flagging missing data and routing human-in-the-loop workflows.
 
-### SOC-Evaluation-Lab
-A small security project that detects repeated failed login attempts and generates alerts, similar to what a SOC analyst would monitor.
+* **[yellamma-bot](https://github.com/rey26341-sudo/yellamma-bot)**  
+  *Multi-Tenant Business Automation Platform*  
+  Designed an AI enquiry assistant enabling businesses to scale operations, handle customer workflows, qualify leads, and schedule bookings automatically.
 
-```
-detectors/     → detection logic (brute-force login)
-alerts/        → JSON alert output
-```
-
-**Future plans:** add more detection rules and a simple alert dashboard.
-🔗 https://github.com/rey26341-sudo/SOC-Evaluation-Lab
+* **[devops-stack](https://github.com/rey26341-sudo/devops-stack)**  
+  *Automated CI/CD Pipeline Architecture*  
+  Demonstrated an end-to-end cloud pipeline using Terraform, Docker, Jenkins, and real-time observability to ensure high system reliability.
 
 ---
 
-### ENVIRONMENT-ACCESS-VALIDATION
-A script that checks whether a system is ready for deployment — server access, repo structure, pipeline status, and logs — built and tested on real AWS CloudShell.
+## 🛠️ Architecture Capabilities
 
-```
-scripts/       → validation checks
-.github/       → CI workflow
-```
-
-**Future plans:** turn checks into a reusable CI/CD pre-deploy gate.
-🔗 https://github.com/rey26341-sudo/ENVIRONMENT-ACCESS-VALIDATION
+- **Cloud & Orchestration:** AWS (EKS, IAM, VPC), Kubernetes (HPA, Probes), Docker, Terraform (IaC), Jenkins, GitHub Actions
+- **Security & Cryptography:** Zero-Trust Verification, Sovereign Middleware, Blue Team Detection, Audit Compliance
+- **AI & Intelligent Workflows:** Agentic Workflows, Multi-tenant Architecture, Bilingual Processing, API Automation
+- **Full-Stack & Web3:** Flask API Microservices, Ethereum Sepolia Integration, Web Architecture
 
 ---
 
-### SYSTEM-TROUBLESHOOTING-CASE-STUDY
-A write-up of a real problem I debugged: a dual-boot laptop with a frozen screen and dead touchpad. The cause turned out to be a hardware key, not the software I'd spent hours checking.
+# 🌏 Future Vision — Malaysia as an ASEAN Technology Hub
 
-```
-README.md      → full case study write-up
-```
+I am an independent developer and system architect from India, building toward a technology venture designed for international scale.
 
-**Future plans:** turn this into a general troubleshooting checklist for dual-boot systems.
-🔗 https://github.com/rey26341-sudo/SYSTEM-TROUBLESHOOTING-CASE-STUDY
+My long-term vision is to establish Malaysia as a strategic technology hub for ASEAN expansion, with a focus on **AI systems, secure digital infrastructure, fintech infrastructure, and deep-tech engineering**.
 
-## How I work
+## 🌐 Regional Vision
 
-- I write down real errors and how I fixed them, not just the finished result.
-- I test things end-to-end and keep proof (screenshots, logs, output) instead of just describing what should work.
-- I'm comfortable working across infrastructure (Terraform, Kubernetes, CI/CD) and AI-driven backend systems (FastAPI + agents).
+### 🇲🇾 Malaysia as an ASEAN Launchpad
 
-## Contact
+I am exploring the **Malaysia Tech Entrepreneur Programme (MTEP)** as a potential pathway to establish and grow my technology venture in Malaysia.
 
-Open an issue on any of my repos, or find me at [github.com/rey26341-sudo](https://github.com/rey26341-sudo).
+My goal is to build products from Malaysia that can eventually serve markets across Southeast Asia and beyond.
+
+### 🧠 Engineering-First Approach
+
+My focus is on building technically defensible systems rather than simply wrapping existing AI APIs.
+
+Areas I am exploring include:
+
+* Artificial intelligence & intelligent workflows
+* Cloud-native infrastructure
+* Cybersecurity & access validation
+* Cryptographic compliance
+* Distributed financial infrastructure
+* Multilingual systems
+* Automation for complex business operations
+* Deep-tech and industrial technology
+
+### 🌏 ASEAN Localization
+
+Future systems may support:
+
+**English • Bahasa Malaysia • Chinese**
+
+with potential expansion across:
+
+**Malaysia • Singapore • Indonesia • wider ASEAN**
+
+## 🗺️ 12-Month Vision
+
+**Q1 — Research & Foundation**
+
+* Study Malaysian industrial and technology markets
+* Identify high-value technical problems
+* Explore Malaysia's startup and deep-tech ecosystem
+* Evaluate MTEP and appropriate Malaysian incorporation pathways
+
+**Q2 — Product & Validation**
+
+* Develop technical prototypes
+* Conduct customer discovery
+* Build commercial pilots
+* Validate product-market fit
+
+**Q3 — Engineering & Commercialization**
+
+* Strengthen product architecture
+* Develop security and scalability layers
+* Establish strategic partnerships
+* Explore Malaysian engineering talent and ecosystem support
+
+**Q4 — Scale**
+
+* Expand validated products into regional markets
+* Pursue partnerships, investment and commercialization opportunities
+* Build the foundation for long-term ASEAN expansion
+
+## 🚀 Current Philosophy
+
+> **Build from real problems. Engineer deeply. Validate commercially. Scale internationally.**
+
+This repository documents my journey from independent builder to technology entrepreneur.
+
+📬 **Connect:** [GitHub Profile](https://github.com/rey26341-sudo)
