@@ -1,6 +1,6 @@
 # Hi there, I'm Rey 👋
 
-**Independent Technology Builder | Software Engineer | building Nachi Aegis**
+**Independent Technology Builder | Software Engineer | Building Nachi Aegis**
      
      *Secure AI & Digital Operations Infrastructure
          Building for ASEAN. Designed for global markets.
