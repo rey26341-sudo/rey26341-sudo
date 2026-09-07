@@ -1,32 +1,100 @@
 # Hi there, I'm Rey 👋
 
-**Independent Technology Builder | Software Engineer | Aspiring Deep-Tech Founder**
+**Independent Technology Builder | Software Engineer | building Nachi Aegis**
+     
+     *Secure AI & Digital Operations Infrastructure
+         Building for ASEAN. Designed for global markets.
 
-I build high-impact, scalable digital infrastructure, cryptographic trust systems, and agentic AI platforms. My work sits at the intersection of **technical execution and sustainable global impact**, driving innovation across financial inclusion, sovereign infrastructure, and automated systems aligned with the **UN Sustainable Development Goals (SDGs)**.
+
+## 🧩 Technology Architecture
+
+Nachi Aegis is an emerging technology platform exploring secure AI-driven business operations, combining multilingual workflow automation, identity and access controls, cloud infrastructure, and digital trust into a common architecture.
+
+The initial strategy is to validate practical business applications in Malaysia and expand across ASEAN before entering wider international markets.
+
+The platform also explores secure sovereign middleware for regulated and high-trust environments, with a focus on cryptographic verification, tamper-evident auditability, and data sovereignty.
+
+The architecture combines **AI-driven business operations, cybersecurity, cloud infrastructure, and digital trust** into a common platform designed for organisations operating across multilingual and regulated environments.
+
+
+                         NACHI AEGIS
+       Secure AI & Digital Operations Infrastructure
+            Building for ASEAN. Designed for global markets
+                              │
+                              ▼
+                 ┌─────────────────────────┐
+                 │     AI OPERATIONS       │
+                 │                         │
+                 │ • Multilingual AI      │
+                 │ • Business Agents      │
+                 │ • Customer Operations  │
+                 │ • Sales Automation     │
+                 └────────────┬────────────┘
+                              │
+                              ▼
+                 ┌─────────────────────────┐
+                 │ WORKFLOW ORCHESTRATION  │
+                 │                         │
+                 │ • Task Routing         │
+                 │ • Business Workflows   │
+                 │ • Human Approval       │
+                 │ • System Integration   │
+                 └────────────┬────────────┘
+                              │
+                              ▼
+                 ┌─────────────────────────┐
+                 │    TRUST & SECURITY     │
+                 │                         │
+                 │ • Identity / RBAC      │
+                 │ • Access Validation    │
+                 │ • Step-Up Auth         │
+                 │ • Audit Logging        │
+                 └────────────┬────────────┘
+                              │
+                              ▼
+                 ┌─────────────────────────┐
+                 │   CLOUD INFRASTRUCTURE  │
+                 │                         │
+                 │ • Docker / Kubernetes  │
+                 │ • AWS / EKS            │
+                 │ • Terraform / CI/CD    │
+                 │ • Observability        │
+                 └────────────┬────────────┘
+                              │
+                              ▼
+                 ┌─────────────────────────┐
+                 │     DIGITAL TRUST       │
+                 │                         │
+                 │ • Cryptographic Systems │
+                 │ • Compliance Evidence  │
+                 │ • Data Governance      │
+                 │ • Tamper-Evident Logs  │
+                 └─────────────────────────┘
+
+### How the layers work together
+
+> **The AI layer understands what the organisation wants to do.
+> The workflow layer determines how the task should be executed.
+> The security layer determines whether the action is authorised.
+> The cloud layer executes it reliably.
+> The digital-trust layer provides evidence of what happened.**
+
+This architecture allows individual products to evolve independently while sharing a common foundation for **identity, security, automation, infrastructure and auditability**.
+
 
 ---
 
-## 🌍 Building Technology for Sustainable Impact
+## AI Operations | AI Business Operations Platform
 
-I design systems focused on transforming complex technological capabilities into scalable, real-world solutions:
+* **[yellamma-bot](https://github.com/rey26341-sudo/yellamma-bot)**  
+  *Multi-Tenant Business Automation Platform*  
+  Designed an AI enquiry assistant enabling businesses to scale operations, handle customer workflows, qualify leads, and schedule bookings automatically.
+  
+* **[multilingual-workflow-agent](https://github.com/rey26341-sudo/multilingual-workflow-agent)**  
+  *Bilingual AI Operations Engine*  
+  Deployed an agentic NLP workflow converting unstructured bilingual (Chinese/English) communications into validated operational tasks, automatically flagging missing data and routing human-in-the-loop workflows.
 
-* **SDG 9: Industry, Innovation & Infrastructure** — Architecting resilient cloud systems, sovereign middleware, and decentralized financial payment layers.
-* **SDG 16: Peace, Justice & Strong Institutions** — Engineering zero-trust operational security, compliance frameworks, and tamper-resistant verification protocols.
-* **SDG 8: Decent Work & Economic Growth** — Building AI agents to automate business operational workflows and increase digital capacity for SMBs and enterprises.
-
----
-
-## 🚀 Key Projects & Systems
-
-### 🏗️ Sustainable Infrastructure, Trust & Compliance (SDG 9 & SDG 16)
-
-* **[nachis-deep-tech](https://github.com/rey26341-sudo/nachis-deep-tech)**  
-  *Sovereign Middleware & Cryptographic Compliance*  
-  Built secure, sovereign middleware engineered for defense primes and regulated environments, providing tamper-evident auditability and cryptographic trust.
-
-* **[FINTECH-CLOUD-EKS](https://github.com/rey26341-sudo/FINTECH-CLOUD-EKS)**  
-  *Decentralized Financial Settlement Infrastructure*  
-  Engineered a containerized fintech settlement platform integrating a chain-agnostic payment layer with Ethereum Sepolia blockchain transactions, backed by self-healing Kubernetes infrastructure (AWS EKS) and IaC.
+ ## Trust & Cybersecurity | SOC-Evaluation-Lab
 
 * **[ENVIRONMENT-ACCESS-VALIDATION](https://github.com/rey26341-sudo/ENVIRONMENT-ACCESS-VALIDATION)**  
   *Zero-Trust Step-Up Authentication Framework*  
@@ -36,23 +104,24 @@ I design systems focused on transforming complex technological capabilities into
   *Blue Team Infrastructure Security Lab*  
   Platform for threat modeling, security evaluation, and detection engineering to secure cloud environments against cyber risks.
 
-### 🤖 Intelligent Systems & Operational Automation (SDG 8 & SDG 9)
+## Cloud Infrastructure 
 
-* **[multilingual-workflow-agent](https://github.com/rey26341-sudo/multilingual-workflow-agent)**  
-  *Bilingual AI Operations Engine*  
-  Deployed an agentic NLP workflow converting unstructured bilingual (Chinese/English) communications into validated operational tasks, automatically flagging missing data and routing human-in-the-loop workflows.
-
-* **[yellamma-bot](https://github.com/rey26341-sudo/yellamma-bot)**  
-  *Multi-Tenant Business Automation Platform*  
-  Designed an AI enquiry assistant enabling businesses to scale operations, handle customer workflows, qualify leads, and schedule bookings automatically.
+* **[FINTECH-CLOUD-EKS](https://github.com/rey26341-sudo/FINTECH-CLOUD-EKS)**  
+  *Decentralized Financial Settlement Infrastructure*  
+  Engineered a containerized fintech settlement platform integrating a chain-agnostic payment layer with Ethereum Sepolia blockchain transactions, backed by self-healing Kubernetes infrastructure (AWS EKS) and IaC.
 
 * **[devops-stack](https://github.com/rey26341-sudo/devops-stack)**  
   *Automated CI/CD Pipeline Architecture*  
   Demonstrated an end-to-end cloud pipeline using Terraform, Docker, Jenkins, and real-time observability to ensure high system reliability.
 
----
+## DIGITAL TRUST
 
-## 🛠️ Architecture Capabilities
+* **[nachis-deep-tech](https://github.com/rey26341-sudo/nachis-deep-tech)**  
+  *Sovereign Middleware & Cryptographic Compliance*  
+   Researching secure sovereign middleware for regulated and high-trust environments, with a focus on cryptographic verification, tamper-evident auditability, and data sovereignty.
+   Potential applications include critical infrastructure, financial services, government, defence and other regulated environments.    
+
+  ## 🛠️ Architecture Capabilities
 
 - **Cloud & Orchestration:** AWS (EKS, IAM, VPC), Kubernetes (HPA, Probes), Docker, Terraform (IaC), Jenkins, GitHub Actions
 - **Security & Cryptography:** Zero-Trust Verification, Sovereign Middleware, Blue Team Detection, Audit Compliance
@@ -61,73 +130,54 @@ I design systems focused on transforming complex technological capabilities into
 
 ---
 
-# 🌏 Future Vision — Malaysia as an ASEAN Technology Hub
+# 🌏 Market Strategy — Malaysia → ASEAN → Global
 
-I am an independent developer and system architect from India, building toward a technology venture designed for international scale.
+My initial market strategy is to validate the platform in **Malaysia**, using the country as an operating base for expansion across ASEAN and eventually into European and other international markets.
 
-My long-term vision is to establish Malaysia as a strategic technology hub for ASEAN expansion, with a focus on **AI systems, secure digital infrastructure, fintech infrastructure, and deep-tech engineering**.
+### 🇲🇾 Why Malaysia?
 
-## 🌐 Regional Vision
+Malaysia provides a strategically relevant environment for the type of systems I am building:
 
-### 🇲🇾 Malaysia as an ASEAN Launchpad
+* Multilingual business operations
+* Strong SME and services ecosystem
+* International trade and regional connectivity
+* Growing demand for AI-enabled business systems
+* Increasing emphasis on cybersecurity and digital trust
+* Geographic access to wider ASEAN markets
 
-I am exploring the **Malaysia Tech Entrepreneur Programme (MTEP)** as a potential pathway to establish and grow my technology venture in Malaysia.
+The objective is not to build a Malaysia-only product.
 
-My goal is to build products from Malaysia that can eventually serve markets across Southeast Asia and beyond.
+**Malaysia is the initial validation market. ASEAN is the regional market. Global markets are the long-term opportunity.**
 
-### 🧠 Engineering-First Approach
+### 🌏 Regional Expansion
 
-My focus is on building technically defensible systems rather than simply wrapping existing AI APIs.
+The platform is being designed around reusable infrastructure rather than country-specific applications.
 
-Areas I am exploring include:
+Potential language and market expansion:
 
-* Artificial intelligence & intelligent workflows
-* Cloud-native infrastructure
-* Cybersecurity & access validation
-* Cryptographic compliance
-* Distributed financial infrastructure
-* Multilingual systems
-* Automation for complex business operations
-* Deep-tech and industrial technology
+**Malaysia**
+English • Bahasa Melayu • Mandarin • Tamil
 
-### 🌏 ASEAN Localization
+↓
 
-Future systems may support:
+**Singapore**
+English • Mandarin • Malay • Tamil
 
-**English • Bahasa Malaysia • Chinese**
+↓
 
-with potential expansion across:
+**Indonesia**
+Bahasa Indonesia • English • Chinese
 
-**Malaysia • Singapore • Indonesia • wider ASEAN**
+↓
 
-## 🗺️ 12-Month Vision
+**Thailand / Vietnam / Philippines / wider ASEAN**
 
-**Q1 — Research & Foundation**
+↓
 
-* Study Malaysian industrial and technology markets
-* Identify high-value technical problems
-* Explore Malaysia's startup and deep-tech ecosystem
-* Evaluate MTEP and appropriate Malaysian incorporation pathways
+**Europe & Global Markets**
 
-**Q2 — Product & Validation**
+The underlying workflow engine, security model and cloud infrastructure remain reusable while language, regulatory and business-process adapters can be introduced for each market.
 
-* Develop technical prototypes
-* Conduct customer discovery
-* Build commercial pilots
-* Validate product-market fit
-
-**Q3 — Engineering & Commercialization**
-
-* Strengthen product architecture
-* Develop security and scalability layers
-* Establish strategic partnerships
-* Explore Malaysian engineering talent and ecosystem support
-
-**Q4 — Scale**
-
-* Expand validated products into regional markets
-* Pursue partnerships, investment and commercialization opportunities
-* Build the foundation for long-term ASEAN expansion
 
 ## 🚀 Current Philosophy
 
